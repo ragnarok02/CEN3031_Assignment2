@@ -1,0 +1,45 @@
+#searchBar {
+  margin: 15px 10px;
+}
+
+.tableWrapper {
+  max-height: 400px;
+  overflow: auto;
+}
+
+h1 {
+	font-family: "Sans Seriff";
+	color: #0000ff;
+	background-color: #ff9a00;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+h2 {
+	text-shadow: 3px 2px #7bbecd;
+}
+
+#varTable {
+	background-color: #ebfcf8;
+}
+
+#searchInput, .codeField, .nameField, .addressField, .latField, .lonField {
+	font-style: italic;
+	font-family: "Times New Roman";
+}
+
+.addNew {
+	font-weight: bold;
+	font-family: "Times New Roman";
+	padding: 5px;
+	margin: 5px;
+}
+
+.codeField, .nameField, .addressField, .latField, .lonField {
+	margin: 5px;
+}
+
+div.jumbotron {
+	background-color: #ffce00;
+	font-family: "Monospace";
+}
